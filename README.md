@@ -6,7 +6,7 @@ This project is focused on achieving the following key objectives:
 
 ## Sales Report
 
-1. **Customer Performance Report:**
+1. **Customer Sales Report:**
    - Create a detailed analysis of customer performance over the years, highlighting sales figures and growth percentages.
 
 2. **Market Performance and Sales Targets Comparison:**
@@ -52,7 +52,7 @@ This project not only allowed me to apply my technical skills but also provided 
 
 # Report Links
 
-- [Customer Performance Report](Customer_Sales_Report.pdf)
-- [Market Performance and Sales Targets Comparison Report](https://github.com/pradeep-the-analyst/excel-AtliQ-Reports/blob/main/AtliQ%20Market%20Performance%20Report.pdf)
-- [Profit and Loss (P&L) Reports by Fiscal Year and Months](https://github.com/pradeep-the-analyst/excel-AtliQ-Reports/blob/main/AtliQ%20P%26L%20Statement%20by%20Months.pdf)
-- [Profit and Loss (P&L) Reports by Markets](https://github.com/pradeep-the-analyst/excel-AtliQ-Reports/blob/main/AtliQ%20P%26L%20Statement%20by%20Markets.pdf)
+- [Customer Sales Report](https://github.com/SyedSarfaraz16/AtliQ-Sales-Report/blob/main/Customer_Sales_Report.pdf)
+- [Market Performance and Sales Targets Comparison Report](https://github.com/SyedSarfaraz16/AtliQ-Sales-Report/blob/main/Market_Performance_Report.pdf)
+- [Profit and Loss (P&L) Reports by Fiscal Year and Months](https://github.com/SyedSarfaraz16/AtliQ-Sales-Report/blob/main/P%20%26%20L%20_Months.pdf)
+- [Profit and Loss (P&L) Reports by Markets](https://github.com/SyedSarfaraz16/AtliQ-Sales-Report/blob/main/P%20%26%20L_for_Markets.pdf)
